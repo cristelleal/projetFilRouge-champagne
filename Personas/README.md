@@ -1,12 +1,14 @@
 # Personas
 
-#### Persona n°1 : 
+# Persona n°1 : 
 
 ##
 
 [![Image](https://i.goopics.net/46jxga.png)](https://goopics.net/i/46jxga)
 
-#### Persona n°2 : 
+##
+
+# Persona n°2 : 
 
 ##
 
