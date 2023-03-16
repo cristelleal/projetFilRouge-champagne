@@ -2,7 +2,7 @@
 
 ### Zonings, wireframes et mock-ups (version Mobile & Desktop)
 
-Veuillez trouver ici les différentes maquettes du site Champagne & Co, allant de l'esquisse (Zoning) à la représentation visuelle précise du site (mock-up).
+Veuillez trouver ici les différentes maquettes du site Champagne & Co, allant de l'esquisse (zoning) à la représentation visuelle précise du site.
 
 ### Zonings 
 
@@ -14,6 +14,6 @@ Veuillez trouver ici les différentes maquettes du site Champagne & Co, allant d
 
 [![Image](https://i.goopics.net/z76g2b.png)](https://goopics.net/i/z76g2b)
 
-### Maquettes graphiques (mock-ups)
+### Maquettes graphiques
 
 [![Image](https://i.goopics.net/7hru63.png)](https://goopics.net/i/7hru63)
